@@ -1,0 +1,9 @@
+div id="foter2">
+        <h6 style="color: azure;">Certifications by Skill</h6><br>
+        <a href=""> Cybersecurity Certification</a><br>
+        <a href="">Project Management Certification</a><br>
+        <a href="">Cloud Certification</a><br>
+        <a href="">Data Analytics Certification</a><br>
+        <a href=""> HR Management Certification</a><br>
+        <a href="">See all Certifications</a><br>
+      </div>
